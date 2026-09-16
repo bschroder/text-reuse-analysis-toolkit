@@ -49,6 +49,12 @@ python3 scripts/run_flexible_analysis.py
 
 Open `results/flexible_reuse_report.html` to access the master dashboard. The individual reports include several advanced tools for researchers:
 
+![Master Dashboard](assets/dashboard.png)
+
+![Match Visualization](assets/visualization1.png)
+
+![Context View](assets/visualization2.png)
+
 - **Smart Side-by-Side Diffing:** Matches are displayed in a dual-column format. The text is semantically highlighted to instantly show:
     - Exact Matches (plain text)
     - Minor Orthographic/Punctuation Changes (dotted blue underline)
