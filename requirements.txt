@@ -1,0 +1,6 @@
+text-matcher
+pandas
+requests
+lxml
+pyarrow
+tqdm

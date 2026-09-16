@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+
+# Ignore result files and matched copies
+results/*
+!results/.gitkeep
+
+reference_texts_with_matches/*
+!reference_texts_with_matches/.gitkeep
